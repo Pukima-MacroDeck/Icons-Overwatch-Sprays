@@ -1,12 +1,11 @@
-# Macro Deck Icons: Overwatch - Abilities
-All Ability Icons from Overwatch 2 as an Icon Pack for Macro Deck 2.
+# Macro Deck Icons: Overwatch - Sprays
+All Sprays from Overwatch 2 as an Icon Pack for Macro Deck 2.
 
 ### Creation Progress
 First the assets get exported, then a Python script gets run which:
 
 1. Puts everything into a single folder to ease the importing
-2. Renames the file to fit the Abilities Name
-3. Convert it into the right file format if needed
+2. Convert it into the right file format (tif -> png)
 
 <hr />
 
