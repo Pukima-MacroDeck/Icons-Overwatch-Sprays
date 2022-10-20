@@ -1,0 +1,9 @@
+{
+   "type" : "IconPack",
+   "name" : "Overwatch - Abilities",
+   "author" : "Pukima",
+   "repository" : "https://github.com/Pukima-MacroDeck/Icons-Overwatch-Abilities",
+   "packageId" : "Pukima.Overwatch.Abilities",
+   "version" : "1.0.0",
+   "target-plugin-api-version" : 36,
+}
