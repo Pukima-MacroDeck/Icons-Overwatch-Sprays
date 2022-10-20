@@ -1,9 +1,9 @@
 {
    "type" : "IconPack",
-   "name" : "Overwatch - Abilities",
+   "name" : "Overwatch - Sprays",
    "author" : "Pukima",
-   "repository" : "https://github.com/Pukima-MacroDeck/Icons-Overwatch-Abilities",
-   "packageId" : "Pukima.Overwatch.Abilities",
+   "repository" : "https://github.com/Pukima-MacroDeck/Icons-Overwatch-Sprays",
+   "packageId" : "Pukima.Overwatch.Sprays",
    "version" : "1.0.0",
    "target-plugin-api-version" : 36,
 }
